@@ -9,7 +9,7 @@ This project analyzes Zomato data to uncover insights about sales, customer beha
 - Excel
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_preview.png.p)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📁 Files Included
 - zomato_dashboard
